@@ -1,0 +1,7 @@
+2026-02-24 10:18:03.987 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/Log/health - null null
+2026-02-24 10:18:03.996 +03:00 [INF] Executing endpoint 'MobileAppLogger.Controllers.LogController.Health (MobileAppLogger)'
+2026-02-24 10:18:04.005 +03:00 [INF] Route matched with {action = "Health", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Health() on controller MobileAppLogger.Controllers.LogController (MobileAppLogger).
+2026-02-24 10:18:04.010 +03:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType3`3[[System.String, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-24 10:18:04.013 +03:00 [INF] Executed action MobileAppLogger.Controllers.LogController.Health (MobileAppLogger) in 3.8918ms
+2026-02-24 10:18:04.016 +03:00 [INF] Executed endpoint 'MobileAppLogger.Controllers.LogController.Health (MobileAppLogger)'
+2026-02-24 10:18:04.018 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/Log/health - 200 null application/json; charset=utf-8 31.1991ms

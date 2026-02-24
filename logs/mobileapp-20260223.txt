@@ -1,0 +1,62 @@
+2026-02-23 11:54:04.315 +03:00 [INF] Starting mobile app logger API
+2026-02-23 11:54:04.949 +03:00 [INF] Now listening on: http://localhost:5152
+2026-02-23 11:54:04.954 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-23 11:54:04.956 +03:00 [INF] Hosting environment: Development
+2026-02-23 11:54:04.956 +03:00 [INF] Content root path: C:\Users\GCA17689\MobileAppLogger
+2026-02-23 11:54:47.269 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger - null null
+2026-02-23 11:54:47.330 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger - 301 0 null 63.8981ms
+2026-02-23 11:54:47.337 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/index.html - null null
+2026-02-23 11:54:47.408 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/index.html - 200 null text/html;charset=utf-8 71.0761ms
+2026-02-23 11:54:47.418 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/index.css - null null
+2026-02-23 11:54:47.418 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/swagger-ui.css - null null
+2026-02-23 11:54:47.418 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/swagger-ui-bundle.js - null null
+2026-02-23 11:54:47.419 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/swagger-ui-standalone-preset.js - null null
+2026-02-23 11:54:47.420 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/index.js - null null
+2026-02-23 11:54:47.436 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/index.js - 200 null application/javascript;charset=utf-8 15.8373ms
+2026-02-23 11:54:47.442 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/index.css - 200 152 text/css 24.4568ms
+2026-02-23 11:54:47.443 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/swagger-ui.css - 200 26248 text/css 24.5ms
+2026-02-23 11:54:47.454 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/swagger-ui-standalone-preset.js - 200 76581 text/javascript 34.1719ms
+2026-02-23 11:54:47.454 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/swagger-ui-bundle.js - 200 416963 text/javascript 35.511ms
+2026-02-23 11:54:47.549 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/v1/swagger.json - null null
+2026-02-23 11:54:47.558 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/favicon-32x32.png - null null
+2026-02-23 11:54:47.563 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/favicon-32x32.png - 200 628 image/png 5.0897ms
+2026-02-23 11:54:47.672 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 122.6788ms
+2026-02-23 11:55:36.428 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/api/Log/health - null null
+2026-02-23 11:55:36.442 +03:00 [WRN] Failed to determine the https port for redirect.
+2026-02-23 11:55:36.450 +03:00 [INF] Executing endpoint 'MobileAppLogger.Controllers.LogController.Health (MobileAppLogger)'
+2026-02-23 11:55:36.464 +03:00 [INF] Route matched with {action = "Health", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Health() on controller MobileAppLogger.Controllers.LogController (MobileAppLogger).
+2026-02-23 11:55:36.473 +03:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType3`3[[System.String, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-23 11:55:36.501 +03:00 [INF] Executed action MobileAppLogger.Controllers.LogController.Health (MobileAppLogger) in 31.1851ms
+2026-02-23 11:55:36.505 +03:00 [INF] Executed endpoint 'MobileAppLogger.Controllers.LogController.Health (MobileAppLogger)'
+2026-02-23 11:55:36.507 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/api/Log/health - 200 null application/json; charset=utf-8 78.3159ms
+2026-02-23 11:56:31.400 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5152/api/Log - application/json 187
+2026-02-23 11:56:31.404 +03:00 [INF] CORS policy execution successful.
+2026-02-23 11:56:31.406 +03:00 [INF] Executing endpoint 'MobileAppLogger.Controllers.LogController.PostLog (MobileAppLogger)'
+2026-02-23 11:56:31.416 +03:00 [INF] Route matched with {action = "PostLog", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PostLog(MobileAppLogger.Models.LogEntry) on controller MobileAppLogger.Controllers.LogController (MobileAppLogger).
+2026-02-23 11:56:31.441 +03:00 [INF] [Mobile App] First test log from my API | User: test-user-123 | Screen: Home Screen | Device: Windows/VS Code | Version: 1.0.0
+2026-02-23 11:56:31.442 +03:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-23 11:56:31.448 +03:00 [INF] Executed action MobileAppLogger.Controllers.LogController.PostLog (MobileAppLogger) in 30.007ms
+2026-02-23 11:56:31.450 +03:00 [INF] Executed endpoint 'MobileAppLogger.Controllers.LogController.PostLog (MobileAppLogger)'
+2026-02-23 11:56:31.452 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5152/api/Log - 200 null application/json; charset=utf-8 52.43ms
+2026-02-23 12:02:38.620 +03:00 [INF] Application is shutting down...
+2026-02-23 12:02:43.412 +03:00 [INF] Starting mobile app logger API
+2026-02-23 12:02:43.590 +03:00 [INF] Now listening on: http://localhost:5152
+2026-02-23 12:02:43.594 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-23 12:02:43.595 +03:00 [INF] Hosting environment: Development
+2026-02-23 12:02:43.595 +03:00 [INF] Content root path: C:\Users\GCA17689\MobileAppLogger
+2026-02-23 12:13:18.560 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/index.html - null null
+2026-02-23 12:13:18.662 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/index.html - 304 null null 103.8244ms
+2026-02-23 12:13:18.670 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/swagger-ui-bundle.js - null null
+2026-02-23 12:13:18.670 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/index.css - null null
+2026-02-23 12:13:18.670 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/swagger-ui.css - null null
+2026-02-23 12:13:18.670 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/index.js - null null
+2026-02-23 12:13:18.670 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/swagger-ui-standalone-preset.js - null null
+2026-02-23 12:13:18.682 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/index.js - 304 null null 11.2319ms
+2026-02-23 12:13:18.690 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/swagger-ui.css - 304 null null 20.4599ms
+2026-02-23 12:13:18.690 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/swagger-ui-standalone-preset.js - 304 null null 19.0471ms
+2026-02-23 12:13:18.690 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/index.css - 304 null null 20.2103ms
+2026-02-23 12:13:18.690 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/swagger-ui-bundle.js - 304 null null 20.4038ms
+2026-02-23 12:13:18.795 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/v1/swagger.json - null null
+2026-02-23 12:13:18.797 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5152/swagger/favicon-32x32.png - null null
+2026-02-23 12:13:18.802 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/favicon-32x32.png - 304 null null 5.014ms
+2026-02-23 12:13:18.914 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5152/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 118.7338ms

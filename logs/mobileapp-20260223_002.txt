@@ -1,0 +1,92 @@
+2026-02-23 12:24:33.312 +03:00 [INF] Starting mobile app logger API
+2026-02-23 12:24:33.509 +03:00 [INF] Now listening on: http://0.0.0.0:5000
+2026-02-23 12:24:33.513 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-23 12:24:33.514 +03:00 [INF] Hosting environment: Development
+2026-02-23 12:24:33.514 +03:00 [INF] Content root path: C:\Users\GCA17689\MobileAppLogger
+2026-02-23 12:25:15.457 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger - null null
+2026-02-23 12:25:15.485 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger - 301 0 null 28.8561ms
+2026-02-23 12:25:15.495 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/index.html - null null
+2026-02-23 12:25:15.537 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/index.html - 200 null text/html;charset=utf-8 41.8193ms
+2026-02-23 12:25:15.560 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/swagger-ui.css - null null
+2026-02-23 12:25:15.560 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/index.css - null null
+2026-02-23 12:25:15.562 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/swagger-ui-bundle.js - null null
+2026-02-23 12:25:15.563 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/swagger-ui-standalone-preset.js - null null
+2026-02-23 12:25:15.563 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/index.js - null null
+2026-02-23 12:25:15.570 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/index.js - 200 null application/javascript;charset=utf-8 6.9636ms
+2026-02-23 12:25:15.578 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/swagger-ui.css - 200 26248 text/css 17.953ms
+2026-02-23 12:25:15.577 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/index.css - 200 152 text/css 17.376ms
+2026-02-23 12:25:15.586 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/swagger-ui-standalone-preset.js - 200 76581 text/javascript 23.1822ms
+2026-02-23 12:25:15.586 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/swagger-ui-bundle.js - 200 416963 text/javascript 24.1871ms
+2026-02-23 12:25:15.859 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/v1/swagger.json - null null
+2026-02-23 12:25:15.873 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/favicon-32x32.png - null null
+2026-02-23 12:25:15.877 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/favicon-32x32.png - 200 628 image/png 4.2994ms
+2026-02-23 12:25:15.952 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 93.798ms
+2026-02-23 12:45:22.244 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/index.html - null null
+2026-02-23 12:45:22.247 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/index.html - 304 null null 3.1787ms
+2026-02-23 12:45:22.281 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/swagger-ui.css - null null
+2026-02-23 12:45:22.282 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/index.css - null null
+2026-02-23 12:45:22.283 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/swagger-ui-bundle.js - null null
+2026-02-23 12:45:22.284 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/swagger-ui-standalone-preset.js - null null
+2026-02-23 12:45:22.286 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/index.js - null null
+2026-02-23 12:45:22.288 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/swagger-ui.css - 304 null null 6.9349ms
+2026-02-23 12:45:22.293 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/index.css - 304 null null 11.0665ms
+2026-02-23 12:45:22.297 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/swagger-ui-bundle.js - 304 null null 13.8251ms
+2026-02-23 12:45:22.302 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/swagger-ui-standalone-preset.js - 304 null null 17.975ms
+2026-02-23 12:45:22.307 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/index.js - 304 null null 21.1128ms
+2026-02-23 12:45:22.579 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/v1/swagger.json - null null
+2026-02-23 12:45:22.586 +03:00 [INF] Request starting HTTP/1.1 GET http://10.19.132.7:5000/swagger/favicon-32x32.png - null null
+2026-02-23 12:45:22.586 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 6.8373ms
+2026-02-23 12:45:22.589 +03:00 [INF] Request finished HTTP/1.1 GET http://10.19.132.7:5000/swagger/favicon-32x32.png - 304 null null 3.4501ms
+2026-02-23 12:53:29.678 +03:00 [INF] Starting mobile app logger API
+2026-02-23 12:53:29.852 +03:00 [INF] Mobile app logger API started successfully
+2026-02-23 12:53:29.853 +03:00 [INF] Listening on: http://localhost:5000 and http://10.19.132.7:5000
+2026-02-23 12:53:29.853 +03:00 [INF] CORS configured for: https://connect.cci-digital.cloud
+2026-02-23 12:53:29.903 +03:00 [INF] Now listening on: http://0.0.0.0:5000
+2026-02-23 12:53:29.907 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-23 12:53:29.912 +03:00 [INF] Hosting environment: Development
+2026-02-23 12:53:29.913 +03:00 [INF] Content root path: C:\Users\GCA17689\MobileAppLogger
+2026-02-23 12:55:13.593 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2026-02-23 12:55:13.653 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 304 null null 60.7562ms
+2026-02-23 12:55:13.686 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - null null
+2026-02-23 12:55:13.686 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.css - null null
+2026-02-23 12:55:13.700 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.css - 304 null null 14.8987ms
+2026-02-23 12:55:13.700 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - 304 null null 14.8985ms
+2026-02-23 12:55:13.705 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - null null
+2026-02-23 12:55:13.708 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - null null
+2026-02-23 12:55:13.717 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - 304 null null 9.3883ms
+2026-02-23 12:55:13.718 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - 304 null null 13.4773ms
+2026-02-23 12:55:13.729 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.js - null null
+2026-02-23 12:55:13.751 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.js - 304 null null 22.6109ms
+2026-02-23 12:55:13.959 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2026-02-23 12:55:13.967 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - null null
+2026-02-23 12:55:13.970 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - 304 null null 2.5148ms
+2026-02-23 12:55:14.058 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 99.0951ms
+2026-02-23 13:02:16.854 +03:00 [INF] Request starting HTTP/1.1 OPTIONS http://10.19.132.7:5000/api/Log - null null
+2026-02-23 13:02:16.864 +03:00 [INF] CORS policy execution successful.
+2026-02-23 13:02:16.866 +03:00 [INF] Request finished HTTP/1.1 OPTIONS http://10.19.132.7:5000/api/Log - 204 null null 12.3694ms
+2026-02-23 13:02:16.872 +03:00 [INF] Request starting HTTP/1.1 POST http://10.19.132.7:5000/api/Log - application/json 368
+2026-02-23 13:02:16.876 +03:00 [INF] CORS policy execution successful.
+2026-02-23 13:02:16.880 +03:00 [INF] Executing endpoint 'MobileAppLogger.Controllers.LogController.PostLog (MobileAppLogger)'
+2026-02-23 13:02:16.898 +03:00 [INF] Route matched with {action = "PostLog", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult PostLog(MobileAppLogger.Models.LogEntry) on controller MobileAppLogger.Controllers.LogController (MobileAppLogger).
+2026-02-23 13:02:16.943 +03:00 [INF] [Mobile App] MANUAL TEST - User login detected | User: test-user-123 | Screen: Login Page | Device: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0 | Version: 1.0.0
+2026-02-23 13:02:16.953 +03:00 [INF] Additional data: {"timestamp":{"ValueKind":"String","$type":"JsonElement"},"action":{"ValueKind":"String","$type":"JsonElement"},"success":{"ValueKind":"True","$type":"JsonElement"}}
+2026-02-23 13:02:16.967 +03:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.DateTime, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-02-23 13:02:16.984 +03:00 [INF] Executed action MobileAppLogger.Controllers.LogController.PostLog (MobileAppLogger) in 79.6616ms
+2026-02-23 13:02:16.987 +03:00 [INF] Executed endpoint 'MobileAppLogger.Controllers.LogController.PostLog (MobileAppLogger)'
+2026-02-23 13:02:16.988 +03:00 [INF] Request finished HTTP/1.1 POST http://10.19.132.7:5000/api/Log - 200 null application/json; charset=utf-8 116.3288ms
+2026-02-23 14:32:45.782 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2026-02-23 14:32:45.789 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 304 null null 7.1629ms
+2026-02-23 14:32:45.833 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - null null
+2026-02-23 14:32:45.834 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.css - null null
+2026-02-23 14:32:45.839 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - 304 null null 5.8772ms
+2026-02-23 14:32:45.842 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.css - 304 null null 7.6827ms
+2026-02-23 14:32:45.846 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - null null
+2026-02-23 14:32:45.849 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - null null
+2026-02-23 14:32:45.851 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - 304 null null 5.5176ms
+2026-02-23 14:32:45.853 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - 304 null null 4.5167ms
+2026-02-23 14:32:45.856 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.js - null null
+2026-02-23 14:32:45.861 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.js - 304 null null 5.2056ms
+2026-02-23 14:32:45.964 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2026-02-23 14:32:45.972 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.305ms
+2026-02-23 14:32:46.028 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - null null
+2026-02-23 14:32:46.031 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - 304 null null 2.8929ms
